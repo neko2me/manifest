@@ -7,6 +7,13 @@
 
 ![Manifest](https://i.imgur.com/sdKEe3H.png)
 
+### Change by fork
+Start Electron Desktop App Mode.
+```
+$ npm run build
+$ npm run start
+```
+
 ### Table of Contents
 
 - [Introduction](#introduction)
